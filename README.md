@@ -9,7 +9,8 @@
 
 Cloner le repository git depuis VSCode:
 
-1. Forkez le repository et ensuite, copiez l'URL de votre repository (quelque chose comme: "https://github.com/xxx/quiz-javascript")
+1. Forkez le repository et ensuite, copiez l'URL de votre repository (quelque chose comme: "https://github.com/bobby6999/quiz-javascript")
+
 2. Dans VSCode, cliquer sur `Command` + `Shift` + `p`
 3. Tapez "git"
 4. Sélectionnez "git clone" et collez l'URL copié en 1.
